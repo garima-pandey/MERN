@@ -1,0 +1,67 @@
+Javascript:
+
+Behaviour - Dynamic
+
+What is JS?
+
+- most popular
+- widely used programming language
+- Front-end Developer
+- Back-end Developer
+- Full-stack DEveloper
+
+What can you do with JS?
+
+- For a long time, JS was only used in browsers to build interactive web pages.
+- Some Developers referred to JS as a toy langauge.
+
+- But, Now a days... developers using JS to build Web / Mobile apps, real time networking apps
+like: chats and video streaming services, command line tools or games.
+
+Where does JS code run?
+ 
+- Originally desinged to run in browsers only
+- So every browser has a JS Engine that can execute our JS code
+- Google - V8 Engine
+- Firefox - SpiderMonkey
+- In 2009, Brian Doll, open sourse engine in chrome and embedded it inside a C++ program. It is called a 
+Node.
+- Node is a C++ program, that includes google's V8 JS engine.Now with this we can run JS code outside of a 
+browser.
+- And this means with JS we can build back-end for our web and mobile apps.
+
+Javascript vs ECMAScript?
+
+ECMASCript: Specification - it is used to define standards
+- 1997 - v1
+- 2015 - ES6 - ECMAScript version 6 - ECMAScript 2015
+Javascript: Programming Language
+
+Editors:
+
+VS Code- choose
+Sublime Text
+Atom
+
+Machine Run:
+Node
+
+VS Code Extension:
+
+Live server 
+
+JS - Basics
+
+- Variables
+ We use a variable to store data temporily
+
+box - value
+vname
+
+
+
+
+
+
+
+

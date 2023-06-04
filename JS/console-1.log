@@ -1,0 +1,7 @@
+console.log('Hello World');
+VM335:1 Hello World
+undefined
+2 + 2
+4
+alert('message');
+undefined
