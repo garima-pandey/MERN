@@ -1,0 +1,4 @@
+Homework:
+
+1. Write a function that takes two numbers, and return the maximum of the two.
+2. Whether the image isLandscape or not? (use width and height)
